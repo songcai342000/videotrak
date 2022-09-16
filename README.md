@@ -1,1 +1,1 @@
-This is a program written with Angular 7, .net core 2.1 and MSSQL. By using the program the user can manage his video list. The program includes application of both reactive form and template-driven form. 
+This is a program written with Angular 7, .net core 2.1 and MSSQL. By using the program the user can manage the video list. The program includes application of both reactive form and template-driven form. 
